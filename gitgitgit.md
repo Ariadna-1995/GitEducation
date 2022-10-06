@@ -1,3 +1,3 @@
 Git
 
-Git status - важная команда. 
+Git status - important command. 
